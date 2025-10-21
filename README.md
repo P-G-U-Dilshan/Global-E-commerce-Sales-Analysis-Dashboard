@@ -7,9 +7,7 @@ The dashboard allows stakeholders to easily understand key metrics related to re
 
 ---
 
-### Dashboard Preview
-![Dashboard Preview](<img width="1919" height="1022" alt="Screenshot 2025-10-07 233512" src="https://github.com/user-attachments/assets/5a3700bc-1add-46f9-87c3-727485b3a6a3" />
-)
+> **Note:** You can view a summary of this project's findings on my [**LinkedIn Post**](https://www.linkedin.com/posts/pgudilshan_dataanalysis-dataanalytics-microsoftexcel-activity-7381755886181994496-ptad?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-q3BUBsl-DjW0ndOchJC_uNQMSfqYydL0).
 
 ### Tools Used
 *   **Microsoft Excel:**
